@@ -1,5 +1,9 @@
 # EinsteinRiddle_Pluto
 Solving the Einstein Riddle using the Julia language and the JuMP optimization package.
+This project was created as part of the course "Applied Optimization" of my master studies at the University of Applied Sciences Munich.
+
+## Using EinsteinRiddle_Pluto.jl file
+The script should be run with Pluto.jl. The file consists a basic description of the riddle and the used optimization algo.
 
 
 Die Fragestellung des "Einstein Rätsels" beinhaltet 16 Hinweise, die dem Löser es ermöglichen herauszufinden wer das Wasser trinkt und wem das Zebra gehört.
